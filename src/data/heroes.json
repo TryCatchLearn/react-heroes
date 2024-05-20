@@ -1,0 +1,40 @@
+{
+  "heroes": [
+    {
+      "name": "Dr. Nasty",
+      "id": "12"
+    },
+    {
+      "name": "Bombasto",
+      "id": "13"
+    },
+    {
+      "name": "Celeritas",
+      "id": "14"
+    },
+    {
+      "name": "Magento",
+      "id": "15"
+    },
+    {
+      "name": "RubberMan1",
+      "id": "16"
+    },
+    {
+      "id": "17",
+      "name": "Dynama"
+    },
+    {
+      "name": "Dr. IQ",
+      "id": "18"
+    },
+    {
+      "id": "19",
+      "name": "Magma"
+    },
+    {
+      "id": "20",
+      "name": "Tornado"
+    }
+  ]
+}
